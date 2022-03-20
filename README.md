@@ -6,7 +6,7 @@
 
  
  
- # [CV REACT](https://moncv-8b19f.web.app/)  OR  [CV PDF](https://drive.google.com/file/d/1YIvU-GOBv5zstkV4dA0BA21VbG9u18k6/view?usp=sharing)
+ # [CV REACT](https://moncv-hostings.web.app/)  OR  [CV PDF](https://drive.google.com/file/d/1YIvU-GOBv5zstkV4dA0BA21VbG9u18k6/view?usp=sharing)
  
   <img align="center" width="60%" alt="GIF" src="https://c.tenor.com/qp5VLQ9Cg24AAAAC/it-crowd-on-fire.gif"></img> 
  
