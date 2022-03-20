@@ -1,5 +1,5 @@
 
-  <img align="50%" width="70%" alt="GIF" src="https://c.tenor.com/qp5VLQ9Cg24AAAAC/it-crowd-on-fire.gif"></img> 
+  <img align="50%" width="80%" alt="GIF" src="https://c.tenor.com/qp5VLQ9Cg24AAAAC/it-crowd-on-fire.gif"></img> 
 
 
 <!--
