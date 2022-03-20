@@ -1,6 +1,7 @@
 <p>
   <img align="right" width="30%" alt="GIF" src="https://c.tenor.com/qp5VLQ9Cg24AAAAC/it-crowd-on-fire.gif"></img> 
-  <div>Passionné d'astronomie, de musique, de gaming, et d'informatique en général depuis mon plus jeune âge, le code est pour moi une autre façon d'exprimer ma créativité, de nourrir ma curiosité et d'élargir mes connaissances.</div>
+  <div>Fan d'astronomie, de musique, de gaming, toutes mes passions flurtent avec l'informatique depuis mon plus jeune âge.
+  C'est tout naturellement que le code est devenu une autre façon d'exprimer ma créativité, de nourrir ma curiosité et d'élargir mes connaissances.</div>
  </p>
  
  
