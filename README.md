@@ -1,5 +1,5 @@
 <p>
-  <img align="Center" width="100%" alt="GIF" src="https://c.tenor.com/naR85rQtmLsAAAAC/code-secret.gif"></img> 
+  <img align="Center" width="50%" alt="GIF" src="https://c.tenor.com/naR85rQtmLsAAAAC/code-secret.gif"></img> 
 </p>
 
 <!--
