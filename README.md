@@ -13,7 +13,7 @@ C'est tout naturellement que le code est devenu une autre façon d'exprimer ma c
   
 
 
- [![img_contact](./img/react.svg)](https://mikecodeur.com)
+
 
  
  
