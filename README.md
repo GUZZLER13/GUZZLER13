@@ -3,7 +3,7 @@
   <div>Passionné d'astronomie, de musique, de gaming, et d'informatique en général depuis mon plus jeune âge, le code est pour moi une autre façon d'exprimer ma créativité, de nourrir ma curiosité et d'élargir mes connaissances.</div>
  </p>
  
- # [Mon CV en REACT)](https://moncv-8b19f.web.app/)
+ # [Mon CV en REACT](https://moncv-8b19f.web.app/)
  
  
 
