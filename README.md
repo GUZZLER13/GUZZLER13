@@ -1,6 +1,6 @@
 
-  <img align="50%" width="80%" alt="GIF" src="https://c.tenor.com/qp5VLQ9Cg24AAAAC/it-crowd-on-fire.gif"></img> 
-
+  <img align="center" width="30%" alt="GIF" src="https://c.tenor.com/qp5VLQ9Cg24AAAAC/it-crowd-on-fire.gif"></img> 
+ 
 
 <!--
 **GUZZLER13/GUZZLER13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
