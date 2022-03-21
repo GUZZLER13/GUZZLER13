@@ -8,7 +8,7 @@ C'est tout naturellement que le code est devenu une autre façon d'exprimer ma c
  
 <img align="center" vertical-align=sub width="60%" alt="GIF" src="https://c.tenor.com/qp5VLQ9Cg24AAAAC/it-crowd-on-fire.gif"></img> 
 
-### Connect with me:
+### Contactez-moi:
 
 <p><a href="https://moncv-hostings.web.app/" target="_blank"><img width=10% src="./img/linkedin.png"> <a href="https://moncv-hostings.web.app/" target="_blank"><img width=10% src="./img/mail.png">
 
