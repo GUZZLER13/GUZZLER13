@@ -11,7 +11,7 @@ C'est tout naturellement que le code est devenu une autre façon d'exprimer ma c
 
 ### Contactez-moi :
 
-<p><a href="https://moncv-hostings.web.app/" target="_blank"><img width=10% src="./img/linkedin.png">  &nbsp;&nbsp;
+<p><a href="https://www.linkedin.com/in/stephanedasilveira/" target="_blank"><img width=10% src="./img/linkedin.png">  &nbsp;&nbsp;
 <a href="mailto:stephanedasil@gmail.com"" target="_blank"><img width=10% src="./img/mail.png">
 
 
