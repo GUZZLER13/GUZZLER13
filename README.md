@@ -5,16 +5,14 @@ C'est tout naturellement que le code est devenu une autre façon d'exprimer ma c
  
 ### Mon CV :
 <a href="https://moncv-hostings.web.app/" target="_blank"><img width=10% src="./img/react.svg"> &nbsp;&nbsp;
- <a href="https://drive.google.com/file/d/1YIvU-GOBv5zstkV4dA0BA21VbG9u18k6/view?usp=sharing"><img width=10% src="./img/pdf.png">
+<a href="https://drive.google.com/file/d/1YIvU-GOBv5zstkV4dA0BA21VbG9u18k6/view?usp=sharing"><img width=10% src="./img/pdf.png">
  
-<img align="center" vertical-align=sub width="60%" alt="GIF" src="https://c.tenor.com/qp5VLQ9Cg24AAAAC/it-crowd-on-fire.gif"></img> 
-
 ### Contactez-moi :
 
 <p><a href="https://www.linkedin.com/in/stephanedasilveira/" target="_blank"><img width=10% src="./img/linkedin.png">  &nbsp;&nbsp;
 <a href="mailto:stephanedasil@gmail.com"" target="_blank"><img width=10% src="./img/mail.png">
 
-
+<img align="center" vertical-align=sub width="100%" alt="GIF" src="https://c.tenor.com/qp5VLQ9Cg24AAAAC/it-crowd-on-fire.gif"></img> 
 
  
  
