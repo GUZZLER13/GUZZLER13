@@ -1,6 +1,6 @@
 ### Je m'appelle Stéphane Da Silveira,
 
-Fan d'astronomie, de musique, de gaming, toutes mes passions fleurtent avec l'informatique depuis mon plus jeune âge.
+Fan d'astronomie, de beatmaking, de gaming, toutes mes passions fleurtent avec l'informatique depuis mon plus jeune âge.
 C'est tout naturellement que le code est devenu une autre façon d'exprimer ma créativité, de nourrir ma curiosité et d'élargir mes connaissances.
  
 ### CV / Contact :
